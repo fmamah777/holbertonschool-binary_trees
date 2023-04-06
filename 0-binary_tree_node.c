@@ -27,4 +27,3 @@ newnode->parent = NULL;
 newnode->parent = parent;
 return (newnode);
 }
-l
